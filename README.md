@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah
+# 👋 Hi, I'm Abdullah (aka KINGKIMABDU online)
 
 I’m based in Germany 🇩🇪  
 I’m a passionate tech enthusiast with a strong interest in **all areas of technology and science**, especially software, systems, and modern computing.
@@ -11,6 +11,8 @@ I’m a passionate tech enthusiast with a strong interest in **all areas of tech
 - AI & large language models
 - Hardware, PCs, and performance-focused setups
 - High-level PC troubleshooting & problem solving
+- Servers & self-hosting (web, game, media, cloud services)
+- Networking fundamentals and administration
 - Strong Samsung, Android, and PC ecosystem fan
 
 ---
