@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah
 
-<!--
-**KINGKIMABDU/KINGKIMABDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m based in Germany 🇩🇪  
+I’m a passionate tech enthusiast with a strong interest in **all areas of technology and science**, especially software, systems, and modern computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech & Skills
+- Python (scripting, automation, experiments)
+- Linux & Windows (daily use, advanced troubleshooting, system-level work)
+- AI & large language models
+- Hardware, PCs, and performance-focused setups
+- High-level PC troubleshooting & problem solving
+- Strong Samsung, Android, and PC ecosystem fan
+
+---
+
+## 🏋️‍♂️🎮🚴‍♂️ Interests & Activities
+- Coding & experimenting with new technologies
+- Bodybuilding & fitness
+- Biking
+- Table tennis (ping-pong)
+- Gaming (Valorant)
+- Music (K-pop)
+
+---
+
+## 🎯 Mindset
+- Curious, analytical, and detail-oriented  
+- I enjoy understanding **how systems work under the hood**  
+- Constantly learning, improving, and pushing my limits
