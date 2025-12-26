@@ -21,7 +21,7 @@ I’m a passionate tech enthusiast with a strong interest in **all areas of tech
 - Coding & experimenting with new technologies
 - Bodybuilding & fitness
 - Biking
-- Table tennis (ping-pong)
+- Table tennis
 - Gaming (Valorant)
 - Music (K-pop)
 
