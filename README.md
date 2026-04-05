@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd%20%descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd&descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Abdullah+Alhariri+(@KINGKIMABDU);%F0%9F%92%BB+Developer+%7C+AI+Enthusiast+%7C+Tech+Nerd" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Abdullah+Alhariri+(@KINGKIMABDU);%F0%9F%92%BB+Developer+%7C+AI+Enthusiast+%7C+Tech+Nerd" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -92,8 +92,8 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KINGKIMABDU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=b7e4c7&ring_color=2d6a4f" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -125,7 +125,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>📱 Posture App</h3>
+        <h3>📱 Vertisova</h3>
         <p>Health-focused mobile app with real-time posture monitoring & tracking</p>
         <img src="https://img.shields.io/badge/Status-In_Progress-52b788?style=flat-square&labelColor=1b4332"/>
       </td>
@@ -203,7 +203,7 @@
 
 <div align="center">
   <b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=2d6a4f&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=2d6a4f&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
   </b>
 </div>
 
