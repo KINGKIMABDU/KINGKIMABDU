@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd%20%descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd&descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Abdullah+Alhariri+(@KINGKIMABDU);%F0%9F%92%BB+Developer+%7C+AI+Enthusiast+%7C+Tech+Nerd" alt="Typing SVG" /></a>
@@ -61,8 +61,8 @@
 ![Python](https://img.shields.io/badge/Python-1b4332?style=for-the-badge&logo=python&logoColor=52b788)
 
 #### 🤖 AI & Tools
-![Ollama](https://img.shields.io/badge/Ollama-1b4332?style=for-the-badge&logo=ollama&logoColor=52b788)
-![Mistral](https://img.shields.io/badge/Mistral_7B-1b4332?style=for-the-badge&logo=ai&logoColor=40916c)
+![Ollama](https://img.shields.io/badge/Ollama-1b4332?style=for-the-badge&logoColor=52b788)
+![Claude Opus 4.6](https://img.shields.io/badge/Claude_Opus_4.6-1b4332?style=for-the-badge&logo=anthropic&logoColor=40916c)
 ![Google Auth](https://img.shields.io/badge/Google_Auth-1b4332?style=for-the-badge&logo=google&logoColor=52b788)
 
 #### 🛠️ Dev Tools
@@ -88,21 +88,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KINGKIMABDU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=b7e4c7&ring_color=2d6a4f" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KINGKIMABDU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c&text_color=b7e4c7&ring_color=2d6a4f" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGKIMABDU&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGKIMABDU&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" />
+    <img width="60%" src="https://streak-stats.demolab.com?user=KINGKIMABDU&theme=dark&hide_border=true&background=0D1117&ring=52b788&fire=52b788&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=52b788&sideNums=52b788&dates=40916c" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -149,7 +136,7 @@
 
 ![Samsung](https://img.shields.io/badge/Samsung_Galaxy_S22_Ultra-1b4332?style=for-the-badge&logo=samsung&logoColor=52b788)
 ![MSI](https://img.shields.io/badge/MSI_Laptop_(i7_|_GTX_1060_|_16GB)-1b4332?style=for-the-badge&logo=msi&logoColor=52b788)
-![SSD](https://img.shields.io/badge/Custom_Optimized_(SSD_+_Tuning)-1b4332?style=for-the-badge&logo=speedtest&logoColor=40916c)
+![ThinkPad](https://img.shields.io/badge/Lenovo_ThinkPad_X270_(Outdoor_Work)-1b4332?style=for-the-badge&logo=lenovo&logoColor=40916c)
 
 </div>
 
@@ -160,24 +147,7 @@
 
 <div align="center">
 
-`Artificial Intelligence` · `Software Development` · `System Optimization` · `Mathematics & Physics` · `Fitness & Health`
-
-</div>
-
----
-
-<!-- GOALS -->
-<h2 align="center">🚀 Goals</h2>
-
-<div align="center">
-
-```
-🎯  Build impactful tech projects
-🧠  Go deeper into AI + systems
-🌍  Combine technology with real-world applications
-📈  Contribute to open source
-💪  Stay consistent — gym & code
-```
+`Artificial Intelligence` · `Software Development` · `Hardware & Software` · `Science` · `System Optimization` · `Fitness & Health`
 
 </div>
 
