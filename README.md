@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd%20%descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:40916c,100:52b788&height=220&section=header&text=Abdullah%20Alhariri&fontSize=42&fontColor=d8f3dc&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Tech%20Nerd&descSize=18&descColor=b7e4c7&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Abdullah+Alhariri+(@KINGKIMABDU);%F0%9F%92%BB+Developer+%7C+AI+Enthusiast+%7C+Tech+Nerd" alt="Typing SVG" /></a>
@@ -26,19 +26,17 @@
 </h2>
 
 <div align="center">
-
-```text
+<pre>
 🎓  Student in Germany • MINT-focused
 💻  Developer • AI • Systems Thinking
 🤓  Techy Nerd — I breathe technology
-🔬  Understanding > Memorization
-🏗️  Building > Consuming
-🧩  Systems Thinking > Isolated Knowledge
-💪  Bodybuilding & Healthy Lifestyle
+🔬  Understanding &gt; Memorization
+🏗️  Building &gt; Consuming
+🧩  Systems Thinking &gt; Isolated Knowledge
+💪  Bodybuilding &amp; Healthy Lifestyle
 📱  Samsung Fan 🫡
 📍  Germany 🇩🇪
-```
-
+</pre>
 </div>
 
 ---
@@ -170,15 +168,13 @@
 <h2 align="center">🚀 Goals</h2>
 
 <div align="center">
-
-```
+<pre>
 🎯  Build impactful tech projects
 🧠  Go deeper into AI + systems
 🌍  Combine technology with real-world applications
 📈  Contribute to open source
-💪  Stay consistent — gym & code
-```
-
+💪  Stay consistent — gym &amp; code
+</pre>
 </div>
 
 ---
