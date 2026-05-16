@@ -1,29 +1,9 @@
-<div align="center">
+![Header](./cards/header.svg?v=10)
 
-<img src="./cards/header.svg?v=10" width="100%" alt="Header" />
+![About Me](./cards/about.svg?v=10)
 
-<br/>
+![Tech Stack](./cards/stack.svg?v=10)
 
-<img src="./cards/about.svg?v=10" width="100%" alt="About Me" />
+![Setup](./cards/setup.svg?v=10)
 
-<br/>
-
-<img src="./cards/stack.svg?v=10" width="100%" alt="Tech Stack" />
-
-<br/>
-
-<img src="./cards/setup.svg?v=10" width="100%" alt="Setup" />
-
-<br/>
-
-*Not here to consume. Here to build.*
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>
-    <a href="./LICENSE">MIT Licensed</a> &bull; The SVG layout code is open source. Personal data and avatar are copyrighted.
-  </sub>
-</div>
+[MIT Licensed](./LICENSE) • The SVG layout code is open source. Personal data and avatar are copyrighted.
