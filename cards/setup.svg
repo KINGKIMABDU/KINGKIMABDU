@@ -23,32 +23,57 @@
 <text class="ac" x="32" y="36" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="500" letter-spacing="1.5">SETUP</text>
 
 <!-- Item 1 -->
+<g opacity="0" transform="translate(-15, 0)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="-15 0" to="0 0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+
 <rect class="icb" x="32" y="58" width="36" height="36" rx="12"/>
 <text class="ict" x="50" y="81" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">📱</text>
 <text class="t1" x="80" y="73" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Samsung Galaxy S22 Ultra</text>
 <text class="t2" x="80" y="89" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Primary phone</text>
+</g>
 
 <!-- Item 2 -->
+<g opacity="0" transform="translate(-15, 0)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="-15 0" to="0 0" dur="0.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+
 <rect class="icb" x="32" y="110" width="36" height="36" rx="12"/>
 <text class="ict" x="50" y="133" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">💻</text>
 <text class="t1" x="80" y="125" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">MSI i7 · GTX 1060 · 16 GB</text>
 <text class="t2" x="80" y="141" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Main workstation &amp; Gaming</text>
+</g>
 
 <!-- Item 3 -->
+<g opacity="0" transform="translate(-15, 0)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="-15 0" to="0 0" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+
 <rect class="ico" x="32" y="162" width="36" height="36" rx="12"/>
 <text class="icot" x="50" y="185" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">💻</text>
 <text class="t1" x="80" y="177" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Lenovo ThinkPad X270</text>
 <text class="t2" x="80" y="193" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Outdoor work</text>
+</g>
 
 <!-- Item 4 -->
+<g opacity="0" transform="translate(-15, 0)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="-15 0" to="0 0" dur="0.8s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+
 <rect class="ico" x="32" y="214" width="36" height="36" rx="12"/>
 <text class="icot" x="50" y="237" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">⌚</text>
 <text class="t1" x="80" y="229" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Samsung Galaxy Watch Ultra</text>
 <text class="t2" x="80" y="245" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Smartwatch, Health &amp; Fitness</text>
+</g>
 
 <!-- Item 5 -->
+<g opacity="0" transform="translate(-15, 0)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="-15 0" to="0 0" dur="0.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+
 <rect class="ico" x="32" y="266" width="36" height="36" rx="12"/>
 <text class="icot" x="50" y="289" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">📱</text>
 <text class="t1" x="80" y="281" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Apple iPad Air 11 M3 2025</text>
 <text class="t2" x="80" y="297" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">For school</text>
+</g>
 </svg>

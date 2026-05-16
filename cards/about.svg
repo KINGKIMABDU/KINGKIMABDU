@@ -26,11 +26,22 @@
 <!-- Code block -->
 <rect class="cb" x="20" y="48" width="760" height="618" rx="14"/>
 
+<g opacity="0" transform="translate(0, 15)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="0 15" to="0 0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
 <text x="40" y="78" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="kw">class</tspan><tspan class="t1"> Abdullah_Alhariri:</tspan></text>
+</g>
 
+<g opacity="0" transform="translate(0, 15)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="0 15" to="0 0" dur="0.8s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
 <text x="40" y="114" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    usernames  = [</tspan><tspan class="str">"Abdullah"</tspan><tspan class="t1">, </tspan><tspan class="str">"KINGKIMABDU"</tspan><tspan class="t1">, </tspan><tspan class="str">"킹키마브두"</tspan><tspan class="t1">]</tspan></text>
 <text x="40" y="132" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    location   = </tspan><tspan class="str">"Germany 🇩🇪"</tspan></text>
+</g>
 
+<g opacity="0" transform="translate(0, 15)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="0 15" to="0 0" dur="0.8s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
 <text x="40" y="168" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    interests  = [</tspan></text>
 <text x="40" y="186" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "AI"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="204" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "Technology"</tspan><tspan class="t1">,</tspan></text>
@@ -43,13 +54,21 @@
 <text x="40" y="330" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "Tinkering"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="348" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "Valorant -&gt; Neon main"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="366" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    ]</tspan></text>
+</g>
 
+<g opacity="0" transform="translate(0, 15)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="0 15" to="0 0" dur="0.8s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
 <text x="40" y="402" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    favorites  = {</tspan></text>
 <text x="40" y="420" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "color"</tspan><tspan class="t1">  : </tspan><tspan class="str">"#6b7f56"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="438" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "music"</tspan><tspan class="t1">  : </tspan><tspan class="str">"K-Pop"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="456" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">        "drink"</tspan><tspan class="t1">  : </tspan><tspan class="str">"Coffee ☕ &amp; Matcha 🍵"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="474" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    }</tspan></text>
+</g>
 
+<g opacity="0" transform="translate(0, 15)">
+<animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
+<animateTransform attributeName="transform" type="translate" from="0 15" to="0 0" dur="0.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.05 0.7 0.1 1" keyTimes="0;1"/>
 <text x="40" y="510" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    philosophy = </tspan><tspan class="str">"Don't put off until tomorrow what you can do today."</tspan></text>
 
 <text x="40" y="546" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">    </tspan><tspan class="kw">def</tspan><tspan class="t1"> approach(self):</tspan></text>
@@ -58,4 +77,5 @@
 <text x="40" y="600" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">            "Building       &gt; Consuming"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="618" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="str">            "Systems        &gt; Isolated Knowledge"</tspan><tspan class="t1">,</tspan></text>
 <text x="40" y="636" font-family="'Courier New',Courier,monospace" font-size="13"><tspan class="t1">        ]</tspan></text>
+</g>
 </svg>
