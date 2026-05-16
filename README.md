@@ -13,9 +13,4 @@
 <br/>
 
 <img src="./cards/setup.svg?v=5" width="100%" alt="Setup" />
-
-<br/>
-
-*Not here to consume. Here to build.*
-
 </div>
