@@ -1,0 +1,40 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+<style>
+.bg{fill:#f4f7ee}
+.ac{fill:#4e6837}
+.cf{fill:#d9eabb}
+.cft{fill:#152300}
+.cob{fill:none;stroke:#b8c5a8;stroke-width:0.75}
+.cot{fill:#44483d}
+@media(prefers-color-scheme:dark){
+  .bg{fill:#121510}
+  .ac{fill:#b3d18e}
+  .cf{fill:#1f3800}
+  .cft{fill:#ceefac}
+  .cob{stroke:#3d4836}
+  .cot{fill:#c4c8bb}
+}
+</style>
+<rect class="bg" width="800" height="150" rx="24"/>
+<text class="ac" x="32" y="36" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="500" letter-spacing="1.5">STACK</text>
+
+<!-- Row 1 -->
+<rect class="cf"  x="32" y="58" width="76" height="28" rx="14"/>
+<text class="cft" x="70" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">Python</text>
+
+<rect class="cf"  x="116" y="58" width="60" height="28" rx="14"/>
+<text class="cft" x="146" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">Java</text>
+
+<rect class="cf"  x="184" y="58" width="100" height="28" rx="14"/>
+<text class="cft" x="234" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">HTML · CSS</text>
+
+<rect class="cf"  x="292" y="58" width="84" height="28" rx="14"/>
+<text class="cft" x="334" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">Firebase</text>
+
+<rect class="cf"  x="384" y="58" width="56" height="28" rx="14"/>
+<text class="cft" x="412" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">Git</text>
+
+<!-- Row 2 -->
+<rect class="cob" x="32" y="98" width="80" height="28" rx="14"/>
+<text class="cot" x="72" y="117" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" text-anchor="middle">VS Code</text>
+</svg>

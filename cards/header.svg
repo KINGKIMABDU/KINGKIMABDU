@@ -1,0 +1,46 @@
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+<style>
+.bg{fill:#f4f7ee}
+.av{fill:#d9eabb}
+.avt{fill:#152300}
+.t1{fill:#1a1c18}
+.t2{fill:#44483d}
+.cf{fill:#d9eabb}
+.cft{fill:#152300}
+.cob{fill:none;stroke:#b8c5a8;stroke-width:0.75}
+.cot{fill:#44483d}
+@media(prefers-color-scheme:dark){
+  .bg{fill:#121510}
+  .av{fill:#1f3800}
+  .avt{fill:#ceefac}
+  .t1{fill:#e2e3d9}
+  .t2{fill:#c4c8bb}
+  .cf{fill:#1f3800}
+  .cft{fill:#ceefac}
+  .cob{stroke:#3d4836}
+  .cot{fill:#c4c8bb}
+}
+</style>
+
+<rect class="bg" width="800" height="140" rx="24"/>
+
+<!-- Avatar circle -->
+<circle class="av" cx="70" cy="70" r="34"/>
+<text class="avt" x="70" y="76" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="500" text-anchor="middle">AA</text>
+
+<!-- Name -->
+<text class="t1" x="124" y="54" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="22" font-weight="500">Abdullah Alhariri</text>
+
+<!-- Handle -->
+<text class="t2" x="124" y="74" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13">@KINGKIMABDU · 킹키마브두</text>
+
+<!-- Chips row -->
+<rect class="cf"  x="124" y="88" width="146" height="26" rx="13"/>
+<text class="cft" x="197" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">🇩🇪 Living in Germany</text>
+
+<rect class="cob" x="278" y="88" width="68" height="26" rx="13"/>
+<text class="cot" x="312" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" text-anchor="middle">Student</text>
+
+<rect class="cob" x="354" y="88" width="80" height="26" rx="13"/>
+<text class="cot" x="394" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" text-anchor="middle">Developer</text>
+</svg>
