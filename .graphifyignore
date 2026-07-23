@@ -1,0 +1,56 @@
+# Graphify: code-only mode (skip files that need LLM semantic extraction).
+# Makes graphify run fully offline via tree-sitter — no API key required.
+# Per https://github.com/safishamsi/graphify — ".gitignore is respected automatically."
+# Docs
+*.md
+*.mdx
+*.qmd
+*.html
+*.htm
+*.txt
+*.rst
+*.yaml
+*.yml
+# Media — images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.heic
+*.heif
+*.psd
+*.ai
+*.eps
+*.raw
+*.cr2
+*.nef
+# Media — video/audio
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.webm
+*.avi
+*.mkv
+*.flv
+*.m4v
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.opus
+# Office docs
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+# Misc
+LICENSE*
+CLAUDE.md
+AGENTS.md

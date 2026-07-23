@@ -30,7 +30,7 @@
 <rect class="icb" x="32" y="58" width="36" height="36" rx="12"/>
 <text class="ict" x="50" y="81" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">📱</text>
 <text class="t1" x="80" y="73" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Samsung Galaxy S22 Ultra</text>
-<text class="t2" x="80" y="89" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Primary phone</text>
+<text class="t2" x="80" y="89" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Primary phone · 12 GB RAM · 256 GB</text>
 </g>
 
 <!-- Item 2 -->
@@ -40,8 +40,8 @@
 
 <rect class="icb" x="32" y="110" width="36" height="36" rx="12"/>
 <text class="ict" x="50" y="133" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">💻</text>
-<text class="t1" x="80" y="125" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">MSI i7 · GTX 1060 · 16 GB</text>
-<text class="t2" x="80" y="141" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Arch Linux · Main workstation &amp; Gaming</text>
+<text class="t1" x="80" y="125" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">MSI GL62VR 7RFX</text>
+<text class="t2" x="80" y="141" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Arch Linux · Main workstation &amp; Gaming · GTX 1060 · Intel i7 7th gen H · 16 GB RAM · 1 TB SSD</text>
 </g>
 
 <!-- Item 3 -->
@@ -52,7 +52,7 @@
 <rect class="ico" x="32" y="162" width="36" height="36" rx="12"/>
 <text class="icot" x="50" y="185" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="16" text-anchor="middle">💻</text>
 <text class="t1" x="80" y="177" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="13" font-weight="500">Lenovo ThinkPad X270</text>
-<text class="t2" x="80" y="193" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Arch Linux · Outdoor work</text>
+<text class="t2" x="80" y="193" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12">Arch Linux · Outdoor work · 16 GB RAM · ~90 Wh battery · 256 GB SSD</text>
 </g>
 
 <!-- Item 4 -->
