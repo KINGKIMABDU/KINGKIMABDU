@@ -55,7 +55,7 @@
 
 <!-- Chips row -->
 <rect class="cf"  x="124" y="88" width="146" height="26" rx="13"/>
-<text class="cft" x="197" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">🇩🇪 Living in Germany</text>
+<text class="cft" x="197" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" font-weight="500" text-anchor="middle">Living in Germany</text>
 
 <rect class="cob" x="278" y="88" width="68" height="26" rx="13"/>
 <text class="cot" x="312" y="105" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" text-anchor="middle">Student</text>
